@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Company A",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 5,
+    "breed": "Scottish Terrier",
+    "location": "Medicine"
+  },
+  {
+    "id": 1,
+    "name": "Company B",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 5,
+    "breed": "Scottish Terrier",
+    "location": "Construction"
+  },
+  {
+    "id": 2,
+    "name": "Company C",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 5,
+    "breed": "French Bulldog",
+    "location": "Banking"
+  },
+  {
+    "id": 3,
+    "name": "Company D",
+    "picture": "images/boxer.jpeg",
+    "age": 5,
+    "breed": "Boxer",
+    "location": "Banking"
+  }
+]
